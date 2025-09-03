@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "johndoe",
+      "email": "john@example.com",
+      "jobRole": "gd"
+    },
+    {
+      "id": "2",
+      "username": "Raman",
+      "email": "raman@gmail.com",
+      "jobRole": "id"
+    },
+    {
+      "id": "3",
+      "username": "Rahul",
+      "email": "rahul@gmail.com",
+      "jobRole": "qa"
+    },
+    {
+      "id": "1835",
+      "username": "Rad",
+      "email": "ra@gmai.com",
+      "jobRole": "id"
+    },
+    {
+      "id": "d64f",
+      "username": "Card",
+      "email": "card@gmail.com",
+      "jobRole": "qa"
+    },
+    {
+      "id": "a89c",
+      "username": "Ys",
+      "email": "ys@gmail.com",
+      "jobRole": "id"
+    }
+  ]
+}
