@@ -84,12 +84,7 @@ export class LoginComponent {
 
   onLogin() {
     if (this.loginForm.valid) {
-        const { username, password } = this.loginForm.value;
-        if (username === 'Admin' && password === '1234') {
-            this.router.navigate(['/users']);
-        }else{
-            alert("Invalid credentials");
-        }
+        this.router.navigate(['/users']);
     } else {
       this.loginForm.markAllAsTouched();
     }
